@@ -82,44 +82,47 @@ All data is cleaned, transformed, analyzed using SQL, and visualized through an 
 
 <hr>
 
-<h2>📈 Key Dashboard Features </h2>
-<h5>🔹 Ride Volume Over Time </h5> 
+## 🧠 Key Dashboard Insights
 
-Daily ride count trend with weekend & match-day spikes.
+### **1. Overall View**
+- Total Bookings: **103K**
+- Total Booking Value: **35M**
+- Booking Status Breakdown: Success, Driver Cancelled, Customer Cancelled, Driver Not Found
+- Ride Volume Over Time shows weekend & match-day spikes
 
-<h5>🔹 Booking Status Breakdown </h5>
+---
 
-Success vs. customer cancellation vs. driver cancellation vs. incomplete rides.
+### **2. Vehicle Type Analysis**
+Each vehicle category shows:
 
-<h5>🔹 Vehicle Type Insights </h5>
- 
-Top vehicle types by:
+- Total Booking Value  
+- Success Booking Value  
+- Avg Distance Travelled  
+- Total Distance Covered  
 
-• Ride distance
+---
 
-• Booking volume
+### **3. Revenue Insights**
+- Revenue by Payment Method  
+- Daily revenue trend (~₹45K–₹50K/day)  
+- Top 5 customers by booking value  
 
-• Revenue contribution
+---
 
-<h5>🔹 Cancellation Analysis </h5>
+### **4. Cancellation Analysis**
+Separate analysis for:
 
-• Driver vs customer cancellation reasons
+- **Cancelled by Customers**  
+- **Cancelled by Drivers**  
 
-Frequency & impact
+With reasons and proportional distribution.
 
-<h5>🔹 Revenue & Payment Insights </h5>
+---
 
-• Revenue by payment method
+### **5. Ratings Overview**
+Driver & customer ratings per vehicle type.
 
-• Top 5 high-value customers
-
-<h5>🔹 Customer & Driver Ratings </h5>
-
-• Rating distribution
-
-• Comparison view
-
-• Vehicle-wise average ratings
+---
 
 <hr>
 
